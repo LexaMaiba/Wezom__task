@@ -7,6 +7,8 @@ body {
 .wrap-content {
 	width: 390px;
 	margin: auto;
+	padding-bottom: 10px;
+	box-shadow: 0px -5px 5px 5px silver;
 }
 
 .label {
